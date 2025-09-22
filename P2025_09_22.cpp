@@ -6,7 +6,7 @@
 
 using namespace std;
 
-int main() {
+int main__() {
   
     char test[20] = "Hello_이게한글이다.";
 
